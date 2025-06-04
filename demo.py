@@ -1,7 +1,6 @@
 import turtle
 import random
 
-# Set up the screen
 screen = turtle.Screen()
 screen.bgcolor("black")
 screen.title("Colorful Spiral Drawing")
