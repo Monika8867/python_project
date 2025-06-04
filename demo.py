@@ -11,7 +11,7 @@ pen.speed(0)
 pen.width(2)
 
 
-colors = ["red", "blue", "green", "yellow", "cyan", "magenta", "orange", "white"]
+colors = ["pink", "blue", "green", "yellow", "cyan", "magenta", "orange", "white"]
 
 # Drawing a spiral pattern
 for i in range(200):
