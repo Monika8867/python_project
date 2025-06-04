@@ -23,4 +23,3 @@ for i in range(200):
 # Hide turtle and keep window open
 pen.hideturtle()
 screen.mainloop()
-
