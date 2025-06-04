@@ -10,7 +10,7 @@ pen = turtle.Turtle()
 pen.speed(0)
 pen.width(2)
 
-# List of colors to use
+
 colors = ["red", "blue", "green", "yellow", "cyan", "magenta", "orange", "white"]
 
 # Drawing a spiral pattern
